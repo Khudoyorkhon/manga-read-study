@@ -1,0 +1,9 @@
+<template>
+  <aside>
+    <ul>
+      <li>Lorem</li>
+      <li>Lorem</li>
+      <li>Lorem</li>
+    </ul>
+  </aside>
+</template>
